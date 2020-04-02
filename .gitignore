@@ -10,3 +10,7 @@ Classfication_small_datasets_inception_v3/.DS_Store
 *.jpg
 *.h5
 .DS_Store
+*.zip
+YOLO Implementation/models/best_models_86600_0.9985.ckpt.data-00000-of-00001
+YOLO Implementation/models/best_models_86600_0.9985.ckpt.index
+YOLO Implementation/models/best_models_86600_0.9985.ckpt.meta
